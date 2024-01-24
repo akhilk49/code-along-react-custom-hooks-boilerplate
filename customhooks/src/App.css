@@ -1,0 +1,18 @@
+#input{
+  position: absolute;
+  left: 43.5vw;
+  top: 45%;
+  height: 25px;
+  width: 15vw;
+  border: 10px inset blue;
+  border-radius: 15px;
+  padding-left: 10px;
+  background-color: aqua;
+}
+
+#text{
+  position: absolute;
+  left: 44%;
+  top: 50%;
+  color: rgb(60, 55, 168);
+}
